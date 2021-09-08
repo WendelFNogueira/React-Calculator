@@ -7,7 +7,7 @@
 - This calculator had your design inspired of the mac calculator.
 
 <p align="center">
-  <img src="./readme-images/ex-calculator.png" height="320" width="235" title="Calculator image">
+  <img src="./readme-images/ex-calculator.png" width="350" title="Calculator image">
 </p>
 
 ### `yarn start`
